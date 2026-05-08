@@ -1,0 +1,307 @@
+# Translation of X Reset WP in Portuguese (Portugal)
+# Copyright (C) 2025 XCODES
+# This file is distributed under the GPL-2.0+ license.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: X Reset WP 1.0.0\n"
+"Report-Msgid-Bugs-To: https://xcodesiptv.com/\n"
+"Last-Translator: XCODES\n"
+"Language-Team: XCODES\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: x-reset-wp.php:54
+msgid "Reset your WordPress safely"
+msgstr "Reinicie o seu WordPress com segurança"
+
+#: x-reset-wp.php:66
+msgid "Caution:"
+msgstr "Atenção:"
+
+#: x-reset-wp.php:66
+msgid "The actions of this plugin are"
+msgstr "As ações deste plugin são"
+
+#: x-reset-wp.php:66
+msgid "irreversible"
+msgstr "irreversíveis"
+
+#: x-reset-wp.php:66
+msgid "Make sure you have a"
+msgstr "Certifique-se de que tem um"
+
+#: x-reset-wp.php:66
+msgid "backup"
+msgstr "backup"
+
+#: x-reset-wp.php:66
+msgid "of your database before proceeding."
+msgstr "da sua base de dados antes de continuar."
+
+#: x-reset-wp.php:59
+msgid "by %s"
+msgstr "por %s"
+
+#: includes/class-reset-handler.php:11 x-reset-wp.php:80
+msgid "WooCommerce Orders"
+msgstr "Encomendas WooCommerce"
+
+#: x-reset-wp.php:81
+msgid "Delete all orders. Compatible with HPOS and legacy storage."
+msgstr "Eliminar todas as encomendas. Compatível com HPOS e armazenamento legado."
+
+#: includes/class-reset-handler.php:12 x-reset-wp.php:93
+msgid "Order Notes"
+msgstr "Notas de encomendas"
+
+#: x-reset-wp.php:94
+msgid "Delete all customer and internal order notes."
+msgstr "Eliminar todas as notas de clientes e notas internas de encomendas."
+
+#: includes/class-reset-handler.php:13 x-reset-wp.php:106
+msgid "Coupons"
+msgstr "Cupões"
+
+#: x-reset-wp.php:107
+msgid "Delete all WooCommerce coupons."
+msgstr "Eliminar todos os cupões WooCommerce."
+
+#: includes/class-reset-handler.php:14 x-reset-wp.php:119
+msgid "Users (except admins)"
+msgstr "Utilizadores (exceto administradores)"
+
+#: x-reset-wp.php:120
+msgid "Delete all non-admin users."
+msgstr "Eliminar todos os utilizadores não administradores."
+
+#: includes/class-reset-handler.php:15 x-reset-wp.php:132
+msgid "Customer Sessions"
+msgstr "Sessões de clientes"
+
+#: x-reset-wp.php:133
+msgid "Clear all active WooCommerce customer sessions."
+msgstr "Limpar todas as sessões ativas de clientes WooCommerce."
+
+#: includes/class-reset-handler.php:16 x-reset-wp.php:145
+msgid "Transients"
+msgstr "Transientes"
+
+#: x-reset-wp.php:146
+msgid "Delete all expired WordPress and WooCommerce transients."
+msgstr "Eliminar todos os transientes expirados do WordPress e WooCommerce."
+
+#: includes/class-reset-handler.php:17 x-reset-wp.php:158
+msgid "System Logs"
+msgstr "Registos do sistema"
+
+#: x-reset-wp.php:159
+msgid "Delete WooCommerce and WordPress log files in /wp-content."
+msgstr "Eliminar ficheiros de registo do WooCommerce e WordPress em /wp-content."
+
+#: includes/class-reset-handler.php:18 x-reset-wp.php:171
+msgid "WooCommerce Analytics"
+msgstr "Analíticas WooCommerce"
+
+#: x-reset-wp.php:172
+msgid "Reset WooCommerce analytics data and reports."
+msgstr "Repor dados e relatórios de analíticas WooCommerce."
+
+#: includes/class-reset-handler.php:19 x-reset-wp.php:184
+msgid "Geographic Statistics"
+msgstr "Estatísticas geográficas"
+
+#: x-reset-wp.php:185
+msgid "Clear order data by country and region."
+msgstr "Limpar dados de encomendas por país e região."
+
+#: includes/class-reset-handler.php:20 x-reset-wp.php:197
+msgid "Customer Downloads"
+msgstr "Transferências de clientes"
+
+#: x-reset-wp.php:198
+msgid "Delete download permissions for downloadable products."
+msgstr "Eliminar permissões de transferência para produtos transferíveis."
+
+#: x-reset-wp.php:206
+msgid "Select All"
+msgstr "Selecionar tudo"
+
+#: x-reset-wp.php:207
+msgid "Run Cleanup"
+msgstr "Executar limpeza"
+
+#: x-reset-wp.php:214
+msgid "Confirm Cleanup"
+msgstr "Confirmar limpeza"
+
+#: x-reset-wp.php:215
+msgid "You are about to delete the following data:"
+msgstr "Está prestes a eliminar os seguintes dados:"
+
+#: x-reset-wp.php:217
+msgid "This action is irreversible. Make sure you have a backup."
+msgstr "Esta ação é irreversível. Certifique-se de que tem um backup."
+
+#: x-reset-wp.php:219
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: x-reset-wp.php:220
+msgid "Yes, delete data"
+msgstr "Sim, eliminar dados"
+
+#: x-reset-wp.php:224
+msgid "Cleaning..."
+msgstr "A limpar..."
+
+#: x-reset-wp.php:231
+msgid "Close"
+msgstr "Fechar"
+
+#: x-reset-wp.php:245
+msgid "Insufficient permissions."
+msgstr "Permissões insuficientes."
+
+#: includes/class-reset-handler.php:31
+msgid "Invalid option."
+msgstr "Opção inválida."
+
+#: includes/class-reset-handler.php:64
+msgid "No orders to delete."
+msgstr "Sem encomendas para eliminar."
+
+#: includes/class-reset-handler.php:99
+msgid "%d orders deleted."
+msgstr "%d encomendas eliminadas."
+
+#: includes/class-reset-handler.php:100
+msgid "Deleted %1$d orders, remaining %2$d..."
+msgstr "%1$d encomendas eliminadas, %2$d restantes..."
+
+#: includes/class-reset-handler.php:116
+msgid "No order notes to delete."
+msgstr "Sem notas de encomenda para eliminar."
+
+#: includes/class-reset-handler.php:139
+msgid "%d notes deleted."
+msgstr "%d notas eliminadas."
+
+#: includes/class-reset-handler.php:140
+msgid "Deleted %1$d notes, remaining %2$d..."
+msgstr "%1$d notas eliminadas, %2$d restantes..."
+
+#: includes/class-reset-handler.php:156
+msgid "No coupons to delete."
+msgstr "Sem cupões para eliminar."
+
+#: includes/class-reset-handler.php:180
+msgid "%d coupons deleted."
+msgstr "%d cupões eliminados."
+
+#: includes/class-reset-handler.php:181
+msgid "Deleted %1$d coupons, remaining %2$d..."
+msgstr "%1$d cupões eliminados, %2$d restantes..."
+
+#: includes/class-reset-handler.php:218
+msgid "%d users deleted."
+msgstr "%d utilizadores eliminados."
+
+#: includes/class-reset-handler.php:219
+msgid "Deleted %1$d users, remaining %2$d..."
+msgstr "%1$d utilizadores eliminados, %2$d restantes..."
+
+#: includes/class-reset-handler.php:231
+msgid "Sessions table not found."
+msgstr "Tabela de sessões não encontrada."
+
+#: includes/class-reset-handler.php:240
+msgid "Customer sessions deleted."
+msgstr "Sessões de clientes eliminadas."
+
+#: includes/class-reset-handler.php:254
+msgid "No transients to delete."
+msgstr "Sem transientes para eliminar."
+
+#: includes/class-reset-handler.php:285
+msgid "%d transients deleted."
+msgstr "%d transientes eliminados."
+
+#: includes/class-reset-handler.php:286
+msgid "Deleted %1$d transients, remaining %2$d..."
+msgstr "%1$d transientes eliminados, %2$d restantes..."
+
+#: includes/class-reset-handler.php:327
+msgid "%d log files deleted."
+msgstr "%d ficheiros de registo eliminados."
+
+#: includes/class-reset-handler.php:356
+msgid "%d analytics tables cleared."
+msgstr "%d tabelas de analíticas limpas."
+
+#: includes/class-reset-handler.php:374
+msgid "Geographic statistics deleted."
+msgstr "Estatísticas geográficas eliminadas."
+
+#: includes/class-reset-handler.php:383
+msgid "No geographic statistics found."
+msgstr "Nenhuma estatística geográfica encontrada."
+
+#: includes/class-reset-handler.php:396
+msgid "Downloads table not found."
+msgstr "Tabela de transferências não encontrada."
+
+#: includes/class-reset-handler.php:402
+msgid "No download permissions to delete."
+msgstr "Sem permissões de transferência para eliminar."
+
+#: includes/class-reset-handler.php:425
+msgid "%d download permissions deleted."
+msgstr "%d permissões de transferência eliminadas."
+
+#: includes/class-reset-handler.php:426
+msgid "Deleted %1$d permissions, remaining %2$d..."
+msgstr "%1$d permissões eliminadas, %2$d restantes..."
+
+#: x-reset-wp.php:42
+msgid "Are you sure? This action is irreversible and will permanently delete the selected data."
+msgstr "Tem a certeza? Esta ação é irreversível e irá eliminar permanentemente os dados selecionados."
+
+#: x-reset-wp.php:42
+msgid "Deselect All"
+msgstr "Desmarcar tudo"
+
+#: x-reset-wp.php:42
+msgid "Cleaning:"
+msgstr "A limpar:"
+
+#: x-reset-wp.php:42
+msgid "Processing..."
+msgstr "A processar..."
+
+#: x-reset-wp.php:42
+msgid "Connection error"
+msgstr "Erro de ligação"
+
+#: x-reset-wp.php:42
+msgid "Invalid response"
+msgstr "Resposta inválida"
+
+#: x-reset-wp.php:42
+msgid "Network error"
+msgstr "Erro de rede"
+
+#: x-reset-wp.php:42
+msgid "Unknown error"
+msgstr "Erro desconhecido"
+
+#: x-reset-wp.php:42
+msgid "Cleanup completed"
+msgstr "Limpeza concluída"
+
+#: x-reset-wp.php:42
+msgid "All processes have finished."
+msgstr "Todos os processos terminaram."
