@@ -1,7 +1,4 @@
 <div align="center">
-
-# X Reset WP
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/images/Logo-XReset-White.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/images/Logo-XReset-Black.png">
@@ -14,7 +11,6 @@
 [![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-blue)]()
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-777bb4.svg)]()
 [![License](https://img.shields.io/badge/license-GPL%202.0%2B-green.svg)]()
-
 </div>
 
 ---

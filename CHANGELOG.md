@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Centrado el logo, descripción e insignias en el README con `<div align="center">`
+- Eliminado título "X Reset WP" redundante con el logo
 
 ## [0.3.1] - 2025-05-08
 
