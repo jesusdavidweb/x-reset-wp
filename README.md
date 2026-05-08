@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/images/Logo-XReset-White.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/images/Logo-XReset-Black.png">
-  <img alt="X Reset WP" src="assets/images/Logo-XReset-Black.png" style="max-height: 75px;">
+  <img alt="X Reset WP" src="assets/images/Logo-XReset-Black.png" height="75">
 </picture>
 
 **Reset your WordPress safely.** A WordPress admin tool for selectively deleting WooCommerce and WordPress data in bulk — orders, users, coupons, analytics, logs, transients, and more.
