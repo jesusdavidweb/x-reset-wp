@@ -1,3 +1,5 @@
+<div align="center">
+
 # X Reset WP
 
 <picture>
@@ -12,6 +14,8 @@
 [![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-blue)]()
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-777bb4.svg)]()
 [![License](https://img.shields.io/badge/license-GPL%202.0%2B-green.svg)]()
+
+</div>
 
 ---
 
